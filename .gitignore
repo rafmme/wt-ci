@@ -1,0 +1,7 @@
+.env
+iac/
+terraform.tfstate
+terraform.tfstate.backup
+tfplan
+lock.json
+.terraform
